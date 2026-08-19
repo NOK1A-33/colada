@@ -1,0 +1,117 @@
+# === Build results and binaries ===
+[Bb]in/
+[Oo]bj/
+out/
+publish/
+artifacts/
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# === NuGet packages and caches ===
+packages/
+*.nupkg
+!**/*.nupkg.props
+!**/*.nupkg.targets
+.nuget/
+nuget.config
+project.assets.json
+project.nuget.cache
+*.lock.json
+
+# === .NET Core runtime files ===
+.net/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.*scc
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+bld/
+[Bb]uild/
+_ReSharper*/
+*.dbmdl
+*.jfm
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+_Chutzpah*
+
+# === OS generated files ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# === ASP.NET Core specific ===
+node_modules/
+wwwroot/lib/
+appsettings.Development.json
+secrets.json
+.secrets/
+.env
+.byebug_history
+coverage/
+.tox/
+.nox/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.hypothesis/
+
+# === Rider / JetBrains ===
+.idea/
+*.sln.iml
+*.ipr
+*.iws
+
+# === User-specific files (Visual Studio / VS Code) ===
+*.rsuser
+*.psess
+*.vsp
+*.vspx
+*.vsconfig
+.history/
+*.code-workspace
+
+# === Database local files ===
+*.mdf
+*.ldf
+*.ndf
+*.sdf
+LocalDB/
+
+# === Publish profiles ===
+*.pubxml
+*.Publish.xml
+
+# === Logs ===
+logs/
+*.log
+
+# === Tools ===
+.paket/
+paket-files/
+.fake/
+cake/
+.cake/

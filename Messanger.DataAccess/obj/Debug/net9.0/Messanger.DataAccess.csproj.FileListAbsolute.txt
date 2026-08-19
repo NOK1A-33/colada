@@ -1,0 +1,12 @@
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\bin\Debug\net9.0\Messanger.DataAccess.deps.json
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\bin\Debug\net9.0\Messanger.DataAccess.dll
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\bin\Debug\net9.0\Messanger.DataAccess.pdb
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\obj\Debug\net9.0\Messanger.DataAccess.csproj.AssemblyReference.cache
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\obj\Debug\net9.0\Messanger.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\obj\Debug\net9.0\Messanger.DataAccess.AssemblyInfoInputs.cache
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\obj\Debug\net9.0\Messanger.DataAccess.AssemblyInfo.cs
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\obj\Debug\net9.0\Messanger.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\obj\Debug\net9.0\Messanger.DataAccess.dll
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\obj\Debug\net9.0\refint\Messanger.DataAccess.dll
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\obj\Debug\net9.0\Messanger.DataAccess.pdb
+C:\Users\alfhu\source\repos\Messanger\Messanger.DataAccess\obj\Debug\net9.0\ref\Messanger.DataAccess.dll

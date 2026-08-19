@@ -1,0 +1,17 @@
+@Messanger_HostAddress = http://localhost:5022
+
+GET {{Messanger_HostAddress}}/auth/users
+Accept: application/json
+
+###
+Post {{Messanger_HostAddress}}/auth/register
+Accept: application/json
+
+{
+    {["Name": "betik",
+    "OutputName": "alfhapreadator",
+    "Email": "Judgemnet@gmail.com",
+    "Password": "Z9y$KlmN"]}
+}
+
+###

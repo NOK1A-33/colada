@@ -1,0 +1,17 @@
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\bin\Debug\net9.0\Messenger.Repository.deps.json
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\bin\Debug\net9.0\Messenger.Repository.runtimeconfig.json
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\bin\Debug\net9.0\Messenger.Repository.dll
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\bin\Debug\net9.0\Messenger.Repository.pdb
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\bin\Debug\net9.0\Messanger.DataAccess.dll
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\bin\Debug\net9.0\Messanger.DataAccess.pdb
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\Messenger.Repository.csproj.AssemblyReference.cache
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\Messenger.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\Messenger.Repository.AssemblyInfoInputs.cache
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\Messenger.Repository.AssemblyInfo.cs
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\Messenger.Repository.csproj.CoreCompileInputs.cache
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\Messenge.08171109.Up2Date
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\Messenger.Repository.dll
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\refint\Messenger.Repository.dll
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\Messenger.Repository.pdb
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\Messenger.Repository.genruntimeconfig.cache
+C:\Users\alfhu\source\repos\Messanger\Messenger.Repository\obj\Debug\net9.0\ref\Messenger.Repository.dll
